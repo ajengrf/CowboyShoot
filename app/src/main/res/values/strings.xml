@@ -14,4 +14,5 @@
     <string name="text_hint_input_name">Input Name</string>
     <string name="text_hi">"Hi "</string>
     <string name="text_exclamation_mark">!</string>
+    <string name="text_coming_soon">Coming soon!</string>
 </resources>
